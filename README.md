@@ -40,5 +40,5 @@ bind t "rebuy";bind MOUSE4 "+voicerecord";bind v "+jump;-attack;-jump";bind n "t
 
 ## Crosshair Code:
 ```
-CSGO-DPvGr-PkdkR-p6mwU-OFKfz-ewHCF
+CSGO-HSWbQ-A7Q4d-kySYx-hOSV4-LkRqJ
 ```
